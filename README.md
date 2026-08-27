@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚡ Mrityunjay Dwivedi – Futuristic 3D Developer Portfolio & AI Engineering Dashboard
 
 [![GitHub Pages Deployment](https://github.com/Mrityunjaydwived/portfolio-3d/actions/workflows/deploy.yml/badge.svg)](https://github.com/Mrityunjaydwived/portfolio-3d/actions/workflows/deploy.yml)
@@ -97,3 +98,6 @@ Automated deployment is pre-configured with **GitHub Actions**. Any commit pushe
 
 ## 📄 License
 Released under the [MIT License](LICENSE). Designed and engineered with precision by **Mrityunjay Dwivedi**.
+=======
+# portfolio-3d
+>>>>>>> 04845d9513979828bc261c610513542c3b60d489
